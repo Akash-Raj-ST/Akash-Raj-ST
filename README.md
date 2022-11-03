@@ -4,13 +4,14 @@
 ![Lakshmanan Meiyappan Banner Image](./coding-freak.gif)
 
 
-- B.Tech 2nd-year CSE at VIT,Chennai. 
+- B.Tech 3rd-year CSE at VIT,Chennai. 
 - Looking for a code buddy.
 
 
 <h2>💻 I'm Currently Learning</h2>
 
 - Android Development using React Native
+- Competitive Programming
 
 
 <h2>❤️Talk to me about:</h2>
@@ -23,7 +24,7 @@
 - Fitness
 - Investments
 - Mr.ROBOT
-
+- AOT
 
 
 <h2>✌️ Stats</h2>
