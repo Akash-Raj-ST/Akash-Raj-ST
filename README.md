@@ -10,7 +10,8 @@
 
 <h2>💻 I'm Currently Learning</h2>
 
-- Android Development using React Native
+- Android Development using Flutter
+- AWS
 - Competitive Programming
 
 
