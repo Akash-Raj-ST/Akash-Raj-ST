@@ -4,7 +4,7 @@
 ![Lakshmanan Meiyappan Banner Image](./coding-freak.gif)
 
 
-- B.Tech 3rd-year CSE at VIT,Chennai. 
+- B.Tech Final-year CSE at VIT,Chennai. 
 - Looking for a code buddy.
 
 
