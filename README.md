@@ -10,9 +10,7 @@
 
 <h2>💻 I'm Currently Learning</h2>
 
-- Android Development using Flutter
-- AWS
-- Competitive Programming
+- WordPress
 
 
 <h2>❤️Talk to me about:</h2>
