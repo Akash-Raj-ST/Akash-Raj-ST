@@ -1,11 +1,10 @@
 
 <h2 align="center">Hi!👋 <br>I am Akash Raj</h2>
 
-![Lakshmanan Meiyappan Banner Image](./coding-freak.gif)
+![Banner Image](./coding-freak.gif)
 
 
 - B.Tech Final-year CSE at VIT,Chennai. 
-- Looking for a code buddy.
 
 
 <h2>💻 I'm Currently Learning</h2>
