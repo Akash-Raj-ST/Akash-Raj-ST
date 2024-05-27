@@ -4,7 +4,8 @@
 ![Banner Image](./coding-freak.gif)
 
 
-- B.Tech Final-year CSE at VIT,Chennai. 
+- B.Tech Final-year CSE at VIT,Chennai.
+- Software Engineer Trainee at rtCamp.
 
 
 <h2>💻 I'm Currently Learning</h2>
